@@ -1,0 +1,54 @@
+{
+    "name": "SpaceAppsChallenge2022",
+    "short_name": "Rakun",
+    "start_url": "/",
+    "display": "standalone",
+    "description": "meow",
+    "background_color": "grey",
+    "theme_color": "black",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "/favicon.ico",
+        "type": "image/png",
+        "sizes": "72x72"
+      },
+      {
+        "src": "/favicon.ico",
+        "type": "image/png",
+        "sizes": "96x96"
+      },
+      {
+        "src": "/favicon.ico",
+        "type": "image/png",
+        "sizes": "128x128"
+      },
+      {
+        "src": "/favicon.ico",
+        "type": "image/png",
+        "sizes": "144x144"
+      },
+      {
+        "src": "/favicon.ico",
+        "type": "image/png",
+        "sizes": "152x152"
+      },
+      {
+        "src": "/raco.png",
+        "type": "image/png",
+        "sizes": "192x192",
+        "purpose": "maskable"
+      },
+      {
+        "src": "/favicon.ico",
+        "type": "image/png",
+        "sizes": "384x384"
+      },
+      {
+        "src": "/raco.png",
+        "type": "image/png",
+        "sizes": "512x512",
+        "purpose": "maskable"
+      }
+    ]
+  }
